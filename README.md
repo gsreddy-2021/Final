@@ -1,3 +1,4 @@
-# Final
+# Final Project - KIEI451
+# Team: Sachit Reddy G., Ryan Chan, Cory Goode
 # Objective: Building a Page Content Calibration System which lets the moderator(s) of the site to rank tweets/posts according to the perceived political inclination (imagine Left/Centrist/Right leaning) and accuracy of information (numeric score and comments) presented. These scores are aggregated at the end and shown on the post/tweet. (assume our website can be a repository of political inclination and accuracy ranking of profiles by their previous posts/tweets from FB/Insta/Twitter)
 # We start with a few sample twitter profiles and tweets across a week or so. So I open our website and in the search bar we type the username of the twitter profile and it shows up a ranking next to his/her name. you can deep dive into how that profile was assigned a score by looking at how his past tweets were rated/ranked/comments.
